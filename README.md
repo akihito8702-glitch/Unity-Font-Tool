@@ -1,7 +1,14 @@
 # Unity Font Tool v1.0.0
 
+[![Release](https://img.shields.io/github/v/release/akihito8702-glitch/Unity-Font-Tool?label=Release)](https://github.com/akihito8702-glitch/Unity-Font-Tool/releases)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52?logo=qt&logoColor=white)
+[![License](https://img.shields.io/github/license/akihito8702-glitch/Unity-Font-Tool)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/akihito8702-glitch/Unity-Font-Tool?style=social)](https://github.com/akihito8702-glitch/Unity-Font-Tool/stargazers)
+
 <p align="center">
-  <img src="images/screenshot.png" alt="Unity Font Tool Screenshot" width="900">
+  <img src="screenshot.png" alt="Unity Font Tool Screenshot" width="900">
 </p>
 
 <p align="center">
@@ -31,7 +38,7 @@ TXT・DOCX・フォルダー一括読み込み対応
 
 ---
 
-# 🚀 主な機能
+## 🚀 主な機能
 
 * 📄 TXTファイル読み込み
 * 📝 DOCXファイル読み込み
@@ -47,10 +54,10 @@ TXT・DOCX・フォルダー一括読み込み対応
 
 ---
 
-# 📷 スクリーンショット
+# 🎬 操作デモ
 
 <p align="center">
-  <img src="images/screenshot.png" width="900">
+  <img src="demo.gif" alt="Unity Font Tool Demo" width="900">
 </p>
 
 ---
@@ -65,11 +72,11 @@ TXT・DOCX・フォルダー一括読み込み対応
 
 ---
 
-# 📥 ダウンロード
+## 📥 ダウンロード
 
 最新版は **Releases** よりダウンロードしてください。
 
-👉 **https://github.com/akihito8702-glitch/Unity-Font-Tool/releases**
+➡️ **[最新版をダウンロード](https://github.com/akihito8702-glitch/Unity-Font-Tool/releases/latest)**
 
 ---
 
@@ -191,6 +198,14 @@ MIT License
 
 <p align="center">
 
-**Made with ❤️ using Python + PySide6**
+---
 
-</p>
+<div align="center">
+
+### ⭐ このツールが役に立ったら Star をお願いします！
+
+Unity開発者の皆さまのお役に立てれば嬉しいです。
+
+Made with ❤️ using Python + PySide6
+
+</div>
